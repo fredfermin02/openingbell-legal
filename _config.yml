@@ -1,0 +1,8 @@
+title: Opening Bell
+description: A stock market for your habits.
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
